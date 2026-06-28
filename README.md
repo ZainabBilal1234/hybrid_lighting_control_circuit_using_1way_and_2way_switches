@@ -42,11 +42,11 @@ The project was physically assembled and tested successfully using standard elec
 
 # 📂 Repository Files
 
-| File Name                                                                                    | Description                                         |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [README.md](README.md)                                                                       | Project documentation                               |
-| [ENW_Lighting_Circuit_Implementation.docx](ENW_Lighting_Circuit_Implementation.docx)         | Complete implementation and circuit analysis report |
-| [ENW_Lighting_Circuit_Methodology_Report.docx](ENW_Lighting_Circuit_Methodology_Report.docx) | Project methodology and design process report       |
+| File Name                                      | Description                                         |
+| ---------------------------------------------- | --------------------------------------------------- |
+| `README.md`                                    | Project documentation                               |
+| `ENW_Lighting_Circuit_Implementation.docx`     | Complete implementation and circuit analysis report |
+| `ENW_Lighting_Circuit_Methodology_Report.docx` | Project methodology and design process report       |
 
 ---
 
@@ -87,3 +87,4 @@ The project successfully demonstrates a hybrid lighting control system using 1-w
 <p align="center">
   ⭐ Thanks for visiting this repository ⭐
 </p>
+
